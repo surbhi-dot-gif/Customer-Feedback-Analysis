@@ -1,8 +1,6 @@
 # Customer Feedback Analysis & Automated Response
 
-This project was created as part of the Imarticus Data Science Internship assessment.
-
-The idea was to take customer reviews from an e-commerce dataset, identify the reviews that need more attention, understand the common complaints, and use Generative AI to draft responses for a few critical cases.
+The idea of this project was to take customer reviews from an e-commerce dataset, identify the reviews that need more attention, understand the common complaints, and use Generative AI to draft responses for a few critical cases.
 
 ## What I did
 
